@@ -1,0 +1,508 @@
+Topic,Name,Type,Url,External ID,Description
+DATA ENGINEERING ,,,,,
+Big Data Patterns,HP_CC_BCC_BDP |LR | 1,Web Resource,https://drive.google.com/file/d/1tHp-DxtcDYNZFpiVvTH4Hi9LKwq3ONdJ/view?usp=sharing,HP_CC_BCC_BDP |LR | 1,Hashmap Resource
+Big Data Patterns,HP_CC_BCC_BDP |LR | 2,Web Resource,https://drive.google.com/file/d/1h8pQZYq6vNLIIECYkx4D-Bd9rQLTOgAZ/view?usp=sharing,HP_CC_BCC_BDP |LR | 2,Hashmap Resource
+,HP_CC_BCC_BDP |LR | 3,Web Resource,https://drive.google.com/file/d/1Flueo5Q37AgAYU_yJxetdyHySbEGRp3B/view?usp=sharing,HP_CC_BCC_BDP |LR | 3,Hashmap Resource
+Big Data Patterns,HP_CC_BCC_BDP |LR | 4,Web Resource,https://drive.google.com/file/d/10e7Tj34iv8IWPIU6x3sFnqoD3E7H5Zgr/view?usp=sharing,HP_CC_BCC_BDP |LR | 4,Hashmap Resource
+Big Data Patterns,HP_CC_BCC_BDP |LR | 5,Web Resource,https://drive.google.com/file/d/1kd4eO7a65a-jHL6C9WLZ2txIYTEQXlM2/view?usp=sharing,HP_CC_BCC_BDP |LR | 5,Hashmap Resource
+Big Data Patterns,HP_CC_BCC_BDP |LR | 6,Web Resource,https://drive.google.com/file/d/17G2fKVm4CxXfKSIb9USlUuRVJO7lMTHz/view?usp=sharing,HP_CC_BCC_BDP |LR | 6,Hashmap Resource
+,,,,,
+SQL ,,,,,
+SQL,SQL |LR|Introduction_To_SQL_And_Objects in SQL_BASIC QUERYING,Article,https://www.tutorialspoint.com/sql/sql-syntax.htm,SQL |LR|Introduction_To_SQL_And_Objects in SQL_BASIC QUERYING,Basic querying
+SQL,SQL |LR|Introduction_To_SQL_And_Objects in SQL_Data_types,Article,https://docs.snowflake.com/en/sql-reference/data-types.html,SQL |LR|Introduction_To_SQL_And_Objects in SQL_Data_types,Cover Different data types and it's usage
+SQL,SQL |LR|Introduction_To_SQL_And_Objects in SQL_DDL_DMLs,Article,https://www.geeksforgeeks.org/sql-ddl-dml-tcl-dcl/,SQL |LR|Introduction_To_SQL_And_Objects in SQL_DDL_DMLs,"DDL , DMLs"
+SQL,SQL |LR|Introduction_To_SQL_And_Objects in SQL_Key_constraints,Article,https://docs.snowflake.com/en/sql-reference/constraints.html,SQL |LR|Introduction_To_SQL_And_Objects in SQL_Key_constraints,key constraints
+SQL,SQL |LR|Introduction_To_SQL_And_Objects in SQL_RDBMS,Article,https://www.geeksforgeeks.org/structured-query-language/,SQL |LR|Introduction_To_SQL_And_Objects in SQL_RDBMS,RDBMS
+SQL,SQL |LR|Operators_in_SQL_Comparison Operators,Article,https://docs.snowflake.com/en/sql-reference/operators-comparison.html,SQL |LR|Operators_in_SQL_Comparison Operators,Comparison Operators
+SQL,SQL |LR|Operators_in_SQL_Logical/Boolean Operators,Article,https://docs.snowflake.com/en/sql-reference/operators-logical.html,SQL |LR|Operators_in_SQL_Logical/Boolean Operators,Logical/Boolean Operators
+SQL,SQL |LR|Operators_in_SQL_overview,Article,https://docs.snowflake.com/en/sql-reference/operators.html,SQL |LR|Operators_in_SQL_overview,Overview of operators
+SQL,SQL |LR|Operators_in_SQL_Query Syntax,Article,https://docs.snowflake.com/en/sql-reference/constructs.html,SQL |LR|Operators_in_SQL_Query Syntax,Query Syntax
+SQL,SQL |LR|Operators_in_SQL_Set Operators,Article,https://docs.snowflake.com/en/sql-reference/operators-query.html,SQL |LR|Operators_in_SQL_Set Operators,Set Operators
+SQL,SQL |LR|Operators_in_SQL_Sub query,Article,https://docs.snowflake.com/en/user-guide/querying-subqueries.html,SQL |LR|Operators_in_SQL_Sub query,Sub query
+SQL,SQL |LR|Operators_in_SQL_Subquery Operators,Article,https://docs.snowflake.com/en/sql-reference/operators-subquery.html,SQL |LR|Operators_in_SQL_Subquery Operators,Subquery Operators
+,,,,,
+SNOWFLAKE,,,,,
+Snowlfake,Snowflake 1.0 | LR | CLI 1,Video,https://www.youtube.com/watch?v=us6MChC8T9Y,Snowflake 1.0 | LR | CLI 1,
+Snowlfake,Snowflake 1.0 | LR | CLI 2,Tutorial,https://docs.snowflake.com/en/user-guide/getting-started-tutorial-log-in.html,Snowflake 1.0 | LR | CLI 2,
+Snowlfake,Snowflake 1.0 | LR | CLI 3,Tutorial,https://docs.snowflake.com/en/user-guide/getting-started-tutorial-create-objects.html,Snowflake 1.0 | LR | CLI 3,
+Snowlfake,Snowflake 1.0 | LR | CLI 4,Tutorial,https://docs.snowflake.com/en/user-guide/getting-started-tutorial-stage-data-files.html,Snowflake 1.0 | LR | CLI 4,
+Snowlfake,Snowflake 1.0 | LR | CLI 5,Tutorial,https://docs.snowflake.com/en/user-guide/getting-started-tutorial-copy-into.html,Snowflake 1.0 | LR | CLI 5,
+Snowlfake,Snowflake 1.0 | LR | CLI 6,Tutorial,https://docs.snowflake.com/en/user-guide/getting-started-tutorial-query.html,Snowflake 1.0 | LR | CLI 6,
+Snowlfake,Snowflake 1.0 | LR | CLI 7,Tutorial,https://docs.snowflake.com/en/user-guide/getting-started-tutorial-congratulations.html,Snowflake 1.0 | LR | CLI 7,
+Snowlfake,Snowflake 1.0 | LR | Clustering 1,Tutorial,https://docs.snowflake.com/en/user-guide/tables-clustering-micropartitions.html,Snowflake 1.0 | LR | Clustering 1,
+Snowlfake,Snowflake 1.0 | LR | Clustering 2,Tutorial,https://community.snowflake.com/s/article/understanding-micro-partitions-and-data-clustering,Snowflake 1.0 | LR | Clustering 2,
+Snowlfake,Snowflake 1.0 | LR | Clustering 3,Tutorial,https://docs.snowflake.com/en/user-guide/tables-clustering-keys.html,Snowflake 1.0 | LR | Clustering 3,
+Snowlfake,Snowflake 1.0 | LR | Clustering 4,Tutorial,https://docs.snowflake.com/en/user-guide/tables-auto-reclustering.html,Snowflake 1.0 | LR | Clustering 4,
+Snowlfake,Snowflake 1.0 | LR | Data Dictionary 1,Tutorial,https://docs.snowflake.com/en/sql-reference/info-schema.html,Snowflake 1.0 | LR | Data Dictionary 1,
+Snowlfake,Snowflake 1.0 | LR | Data Dictionary 10,Tutorial,https://docs.snowflake.com/en/sql-reference/functions/warehouse_load_history.html,Snowflake 1.0 | LR | Data Dictionary 10,
+Snowlfake,Snowflake 1.0 | LR | Data Dictionary 2,Tutorial,https://docs.snowflake.com/en/sql-reference/functions/automatic_clustering_history.html,Snowflake 1.0 | LR | Data Dictionary 2,
+Snowlfake,Snowflake 1.0 | LR | Data Dictionary 3,Tutorial,https://docs.snowflake.com/en/sql-reference/functions/copy_history.html,Snowflake 1.0 | LR | Data Dictionary 3,
+Snowlfake,Snowflake 1.0 | LR | Data Dictionary 4,Tutorial,https://docs.snowflake.com/en/sql-reference/functions/data_transfer_history.html,Snowflake 1.0 | LR | Data Dictionary 4,
+Snowlfake,Snowflake 1.0 | LR | Data Dictionary 5,Tutorial,https://docs.snowflake.com/en/sql-reference/functions/login_history.html,Snowflake 1.0 | LR | Data Dictionary 5,
+Snowlfake,Snowflake 1.0 | LR | Data Dictionary 6,Tutorial,https://docs.snowflake.com/en/sql-reference/functions/materialized_view_refresh_history.html,Snowflake 1.0 | LR | Data Dictionary 6,
+Snowlfake,Snowflake 1.0 | LR | Data Dictionary 7,Tutorial,https://docs.snowflake.com/en/sql-reference/functions/pipe_usage_history.html,Snowflake 1.0 | LR | Data Dictionary 7,
+Snowlfake,Snowflake 1.0 | LR | Data Dictionary 8,Tutorial,https://docs.snowflake.com/en/sql-reference/functions/query_history.html,Snowflake 1.0 | LR | Data Dictionary 8,
+Snowlfake,Snowflake 1.0 | LR | Data Dictionary 9,Tutorial,https://docs.snowflake.com/en/sql-reference/functions/task_history.html,Snowflake 1.0 | LR | Data Dictionary 9,
+Snowlfake,Snowflake 1.0 | LR | Data Loading [Bulk] 1,Tutorial,https://docs.snowflake.com/en/user-guide-data-load.html,Snowflake 1.0 | LR | Data Loading [Bulk] 1,
+Snowlfake,Snowflake 1.0 | LR | Data Loading [Bulk] 2,Tutorial,https://docs.snowflake.com/en/user-guide/data-load-external-tutorial.html,Snowflake 1.0 | LR | Data Loading [Bulk] 2,
+Snowlfake,Snowflake 1.0 | LR | Data Loading [Bulk] 3,Tutorial,https://docs.snowflake.com/en/user-guide/data-load-external-tutorial-create-file-format.html,Snowflake 1.0 | LR | Data Loading [Bulk] 3,
+Snowlfake,Snowflake 1.0 | LR | Data Loading [Bulk] 4,Tutorial,https://docs.snowflake.com/en/user-guide/data-load-external-tutorial-create-stage.html,Snowflake 1.0 | LR | Data Loading [Bulk] 4,
+Snowlfake,Snowflake 1.0 | LR | Data Loading [Bulk] 5,Tutorial,https://docs.snowflake.com/en/user-guide/data-load-external-tutorial-copy-into.html,Snowflake 1.0 | LR | Data Loading [Bulk] 5,
+Snowlfake,Snowflake 1.0 | LR | Data Loading [Bulk] 6,Tutorial,https://docs.snowflake.com/en/user-guide/data-load-external-tutorial-resolve.html,Snowflake 1.0 | LR | Data Loading [Bulk] 6,
+Snowlfake,Snowflake 1.0 | LR | Data Loading [Bulk] 7,Tutorial,https://docs.snowflake.com/en/user-guide/data-load-external-tutorial-verify.html,Snowflake 1.0 | LR | Data Loading [Bulk] 7,
+Snowlfake,Snowflake 1.0 | LR | Data Loading [Bulk] 8,Tutorial,https://docs.snowflake.com/en/user-guide/script-data-load-transform-json.html,Snowflake 1.0 | LR | Data Loading [Bulk] 8,
+Snowlfake,Snowflake 1.0 | LR | Data Loading [Bulk] 9,Tutorial,https://docs.snowflake.com/en/user-guide/script-data-load-transform-parquet.html,Snowflake 1.0 | LR | Data Loading [Bulk] 9,
+Snowlfake,Snowflake 1.0 | LR | Data Loading [Continous] 1,Video,https://www.youtube.com/watch?v=rwZWmcy0aBU,Snowflake 1.0 | LR | Data Loading [Continous] 1,
+Snowlfake,Snowflake 1.0 | LR | Data Loading [Continous] 2,Tutorial,https://docs.snowflake.com/en/user-guide/data-load-snowpipe-intro.html,Snowflake 1.0 | LR | Data Loading [Continous] 2,
+Snowlfake,Snowflake 1.0 | LR | Data Loading [Continous] 3,Tutorial,https://docs.snowflake.com/en/user-guide/data-load-snowpipe-billing.html,Snowflake 1.0 | LR | Data Loading [Continous] 3,
+Snowlfake,Snowflake 1.0 | LR | Data Loading [Continous] 4,Tutorial,https://docs.snowflake.com/en/user-guide/data-load-snowpipe-auto.html,Snowflake 1.0 | LR | Data Loading [Continous] 4,
+Snowlfake,Snowflake 1.0 | LR | Data Loading [Continous] 5,Tutorial,https://docs.snowflake.com/en/user-guide/data-load-snowpipe-rest.html,Snowflake 1.0 | LR | Data Loading [Continous] 5,
+Snowlfake,Snowflake 1.0 | LR | Data Loading [Continous] 6,Tutorial,https://docs.snowflake.com/en/user-guide/data-load-snowpipe-ts.html,Snowflake 1.0 | LR | Data Loading [Continous] 6,
+Snowlfake,Snowflake 1.0 | LR | Data Loading [Continous] 7,Tutorial,https://docs.snowflake.com/en/user-guide/data-load-snowpipe-manage.html,Snowflake 1.0 | LR | Data Loading [Continous] 7,
+Snowlfake,Snowflake 1.0 | LR | Data Unloading 1,Tutorial,https://docs.snowflake.com/en/user-guide/data-unload-overview.html,Snowflake 1.0 | LR | Data Unloading 1,
+Snowlfake,Snowflake 1.0 | LR | Data Unloading 2,Tutorial,https://docs.snowflake.com/en/user-guide/data-unload-snowflake.html,Snowflake 1.0 | LR | Data Unloading 2,
+Snowlfake,Snowflake 1.0 | LR | Data Unloading 3,Tutorial,https://docs.snowflake.com/en/user-guide/data-unload-s3.html,Snowflake 1.0 | LR | Data Unloading 3,
+Snowlfake,Snowflake 1.0 | LR | Data Unloading 4,Tutorial,https://docs.snowflake.com/en/user-guide/data-unload-gcs.html,Snowflake 1.0 | LR | Data Unloading 4,
+Snowlfake,Snowflake 1.0 | LR | Data Unloading 5,Tutorial,https://docs.snowflake.com/en/user-guide/data-unload-azure.html,Snowflake 1.0 | LR | Data Unloading 5,
+Snowlfake,Snowflake 1.0 | LR | Data Unloading 6,Tutorial,https://docs.snowflake.com/en/user-guide/intro-summary-unloading.html,Snowflake 1.0 | LR | Data Unloading 6,
+Snowlfake,Snowflake 1.0 | LR | Functions 1,Tutorial,https://docs.snowflake.com/en/sql-reference/udf-overview.html,Snowflake 1.0 | LR | Functions 1,
+Snowlfake,Snowflake 1.0 | LR | Functions 2,Tutorial,https://docs.snowflake.com/en/sql-reference/external-functions-introduction.html,Snowflake 1.0 | LR | Functions 2,
+Snowlfake,Snowflake 1.0 | LR | Introduction,Web Resource,https://docs.google.com/presentation/d/1IbX8lQsXWKx_wCsfBuiYMm8LlOg16VuNqKyPYdRyli0/edit?usp=sharing,Snowflake 1.0 | LR | Introduction,
+Snowlfake,Snowflake 1.0 | LR | Materialised View,Tutorial,https://docs.snowflake.com/en/user-guide/views-materialized.html,Snowflake 1.0 | LR | Materialised View,
+Snowlfake,Snowflake 1.0 | LR | Security 1,Tutorial,https://docs.snowflake.com/en/user-guide/admin-security.html,Snowflake 1.0 | LR | Security 1,
+Snowlfake,Snowflake 1.0 | LR | Security 2,Tutorial,https://docs.snowflake.com/en/user-guide/data-cdp.html,Snowflake 1.0 | LR | Security 2,
+Snowlfake,Snowflake 1.0 | LR | Security 3,Tutorial,https://docs.snowflake.com/en/user-guide/key-pair-auth.html,Snowflake 1.0 | LR | Security 3,
+Snowlfake,Snowflake 1.0 | LR | Security 4,Tutorial,https://docs.snowflake.com/en/user-guide/security-mfa.html,Snowflake 1.0 | LR | Security 4,
+Snowlfake,Snowflake 1.0 | LR | Security 5,Tutorial,https://docs.snowflake.com/en/user-guide/oauth.html,Snowflake 1.0 | LR | Security 5,
+Snowlfake,Snowflake 1.0 | LR | Security 6,Tutorial,https://docs.snowflake.com/en/user-guide/admin-security-fed-auth.html,Snowflake 1.0 | LR | Security 6,
+Snowlfake,Snowflake 1.0 | LR | Security 7,Tutorial,https://docs.snowflake.com/en/user-guide/security-access-control.html,Snowflake 1.0 | LR | Security 7,
+Snowlfake,Snowflake 1.0 | LR | Security 8,Tutorial,https://docs.snowflake.com/en/user-guide/security-encryption.html,Snowflake 1.0 | LR | Security 8,
+Snowlfake,Snowflake 1.0 | LR | Signup,Tutorial,https://docs.snowflake.com/en/user-guide/admin-trial-account.html,Snowflake 1.0 | LR | Signup,
+Snowlfake,Snowflake 1.0 | LR | Stored Procedures 1,Tutorial,https://docs.snowflake.com/en/sql-reference/stored-procedures-overview.html,Snowflake 1.0 | LR | Stored Procedures 1,
+Snowlfake,Snowflake 1.0 | LR | Stored Procedures 2,Tutorial,https://docs.snowflake.com/en/sql-reference/stored-procedures-rights.html,Snowflake 1.0 | LR | Stored Procedures 2,
+Snowlfake,Snowflake 1.0 | LR | Stored Procedures 3,Tutorial,https://docs.snowflake.com/en/sql-reference/stored-procedures-usage.html,Snowflake 1.0 | LR | Stored Procedures 3,
+Snowlfake,Snowflake 1.0 | LR | System Usage and Billing 1,Tutorial,https://docs.snowflake.com/en/user-guide/admin-usage-billing.html,Snowflake 1.0 | LR | System Usage and Billing 1,
+Snowlfake,Snowflake 1.0 | LR | System Usage and Billing 2,Tutorial,https://docs.snowflake.com/en/user-guide/what-are-credits.html,Snowflake 1.0 | LR | System Usage and Billing 2,
+Snowlfake,Snowflake 1.0 | LR | System Usage and Billing 3,Tutorial,https://docs.snowflake.com/en/user-guide/credits.html,Snowflake 1.0 | LR | System Usage and Billing 3,
+Snowlfake,Snowflake 1.0 | LR | System Usage and Billing 4,Tutorial,https://docs.snowflake.com/en/user-guide/billing-data-transfer.html,Snowflake 1.0 | LR | System Usage and Billing 4,
+Snowlfake,Snowflake 1.0 | LR | System Usage and Billing 5,Tutorial,https://docs.snowflake.com/en/user-guide/admin-serverless-billing.html,Snowflake 1.0 | LR | System Usage and Billing 5,
+Snowlfake,Snowflake 1.0 | LR | System Usage and Billing 6,Tutorial,https://docs.snowflake.com/en/user-guide/admin-monitoring-usage.html,Snowflake 1.0 | LR | System Usage and Billing 6,
+Snowlfake,Snowflake 1.0 | LR | System Usage and Billing 7,Tutorial,https://docs.snowflake.com/en/user-guide/resource-monitors.html,Snowflake 1.0 | LR | System Usage and Billing 7,
+Snowlfake,Snowflake 1.0 | LR | User and Account Management 1,Tutorial,https://docs.snowflake.com/en/user-guide/admin-account-management.html,Snowflake 1.0 | LR | User and Account Management 1,
+Snowlfake,Snowflake 1.0 | LR | User and Account Management 2,Tutorial,https://docs.snowflake.com/en/user-guide/admin-user-management.html,Snowflake 1.0 | LR | User and Account Management 2,
+Snowlfake,Snowflake 1.0 | LR | WebUI 1,Video,https://www.youtube.com/watch?v=fEtoYweBNQ4,Snowflake 1.0 | LR | WebUI 1,
+Snowlfake,Snowflake 1.0 | LR | WebUI 2,Tutorial,https://docs.snowflake.com/en/user-guide/snowflake-manager.html,Snowflake 1.0 | LR | WebUI 2,
+Snowlfake,Snowflake starter kit,Article,https://docs.google.com/document/d/1ksJi69mF8snPOTkgt4RNq5ZvJ87TNl7Fv5SHEasN3ig/edit?usp=sharing,Snowflake starter kit,Snowflake starter kit
+,,,,,
+MATILLION ,,,,,
+Matillion,Matillion | LR | 1 Introduction,Web Resource,https://documentation.matillion.com/docs,Matillion | LR | 1 Introduction,
+Matillion,Matillion | LR | 10 Snowflake CICD process and Matillion life cycle,Video,https://drive.google.com/file/d/1cy8kVIl8ZtR4L_NLDDcX9uM4vkp339UI/view?usp=sharing,Matillion | LR | 10 Snowflake CICD process and Matillion life cycle,Snowflake CICD process and Matillion life cycle
+Matillion,Matillion | LR | 11 Matillion Academy - introduction,Video,https://drive.google.com/file/d/1klq-gQmK4mA6jFY-hAPDLiFhvd1FLjWy/view?usp=sharing,Matillion | LR | 11 Matillion Academy - introduction,Introduction session from Matillion
+Matillion,Matillion | LR | 11 Matillion Academy - Workshop,Video,https://drive.google.com/file/d/1HPtYYvg0XnLwYsQgRUEZkBo1K4u1OGL5/view?usp=sharing,Matillion | LR | 11 Matillion Academy - Workshop,Workshop session with Matillion
+Matillion,Matillion | LR | 2 Variables,Web Resource,https://documentation.matillion.com/docs/2037630,Matillion | LR | 2 Variables,
+Matillion,Matillion | LR | 3 Manage Backups,Web Resource,https://documentation.matillion.com/docs/2689509,Matillion | LR | 3 Manage Backups,
+Matillion,Matillion | LR | 4 Manage Extract Profiles,Web Resource,https://documentation.matillion.com/docs/7505305,Matillion | LR | 4 Manage Extract Profiles,
+Matillion,Matillion | LR | 5 Data Staging Components,Web Resource,https://documentation.matillion.com/docs/2852125,Matillion | LR | 5 Data Staging Components,
+Matillion,Matillion | LR | 6 ETL API - v1,Web Resource,https://documentation.matillion.com/docs/29161244,Matillion | LR | 6 ETL API - v1,
+Matillion,Matillion | LR | 7 Matillion Academy,Web Resource,https://academy.matillion.com/login,Matillion | LR | 7 Matillion Academy,Matillion Academy On Demand Content. Please register to access the content.
+Matillion,Matillion | LR | 8 Matillion Best Practices,Web Resource,https://drive.google.com/file/d/1XcAyOw0HxUdiusAP4Ixdg5K0y-YtNfr-/view?usp=sharing,Matillion | LR | 8 Matillion Best Practices,Matillion Best Practices
+Matillion,Matillion | LR | 9 Optimizing Snowflake,Web Resource,https://drive.google.com/file/d/1jy_6M_318LzNzhlo0sYQ-fFc0lLNMGJS/view,Matillion | LR | 9 Optimising Snowflake,Optimizing Snowflake
+Matillion,Matillion | LR | Snowflake CICD process and with Matillion lifecycle,Video,https://drive.google.com/drive/folders/1usmqVnysDmhIuVynNuNyzCfYvuH_8FwW,Matillion | LR | Snowflake CICD process and with Matillion lifecycle,Snowflake CICD process and with Matillion lifecycle
+Matillion,Matillion | LR | Walkthrough 1,Video,https://drive.google.com/drive/folders/1usmqVnysDmhIuVynNuNyzCfYvuH_8FwW,Matillion | LR | Walkthrough 1,
+Matillion,Matillion | LR | Walkthrough 2,Video,https://drive.google.com/drive/folders/1usmqVnysDmhIuVynNuNyzCfYvuH_8FwW,Matillion | LR | Walkthrough 2,
+,,,,,
+PYTHON ,,,,,
+,Python | LR | Comprehensive source,Web Resource,https://learning.oreilly.com/videos/python-fundamentals/9780135917411/,Python | LR | Comprehensive source,
+,Python | LR | CSV with python,Web Resource,https://www.programiz.com/python-programming/reading-csv-files,Python | LR | CSV with python,
+,Python | LR | Excerises,Web Resource,https://www.w3resource.com/python-exercises/,Python | LR | Excerises,Hands on practise
+,Python | LR | Extensive Python Course,Web Resource,https://www.youtube.com/watch?v=_uQrJ0TkZlc,Python | LR | Extensive Python Course,For a more extensive and quick python coverage and course with few real world project implementation demo. Duration 6 Hours
+,Python | LR | Extensive Python Course DSML,Video,https://www.youtube.com/watch?v=WGJJIrtnfpk,Python | LR | Extensive Python Course DSML,For an extensive and quick python with DS/ML flavour. Duration 12 hours.
+,Python | LR | Installation general,Web Resource,https://www.youtube.com/watch?v=mbryl4MZJms,Python | LR | Installation general,
+,Python | LR | Installation Ubuntu,Web Resource,https://www.youtube.com/watch?v=LwORmcaI69w,Python | LR | Installation Ubuntu,
+,Python | LR | Installation Windows,Web Resource,https://www.youtube.com/watch?v=O5nHFBhCfFo,Python | LR | Installation Windows,
+,Python | LR | JSON with python,Web Resource,https://www.programiz.com/python-programming/json,Python | LR | JSON with python,
+,Python | LR | OOP,Web Resource,https://learning.oreilly.com/library/view/python-3-object-oriented/9781789615852/,Python | LR | OOP,
+,Python | LR | Path & Env Variables Linux Mac,Web Resource,https://www.youtube.com/watch?v=PUIE7CPANfo,Python | LR | Path & Env Variables Linux Mac,
+,Python | LR | Path & Env Variables Windows,Web Resource,https://www.youtube.com/watch?v=Y2q_b4ugPWk,Python | LR | Path & Env Variables Windows,
+,Python | LR | PEP- 8 1,Web Resource,https://www.python.org/dev/peps/pep-0008/,Python | LR | PEP- 8 1,
+,Python | LR | PEP- 8 2,Web Resource,https://realpython.com/python-pep8/,Python | LR | PEP- 8 2,
+,Python | LR | Project Structure 1,Web Resource,https://docs.python-guide.org/writing/structure/,Python | LR | Project Structure 1,
+,Python | LR | Project Structure 2,Web Resource,https://realpython.com/python-application-layouts/,Python | LR | Project Structure 2,
+,Python | LR | Project Structure 3,Web Resource,https://python-packaging.readthedocs.io/en/latest/minimal.html,Python | LR | Project Structure 3,
+,Python | LR | Project Structure 4,Web Resource,https://dev.to/codemouse92/dead-simple-python-project-structure-and-imports-38c6,Python | LR | Project Structure 4,
+,Python | LR | Pyspark with python,Web Resource,https://realpython.com/pyspark-intro/,Python | LR | Pyspark with python,
+,Python | LR | Quick Start Python,Web Resource,https://olympus.greatlearning.in/login,Python | LR | Quick Start Python,"For a quick start, you can register for a free course on Python basics from Great Learning Academy.(A 3.5 hrs course) covers all the python basics."
+,Python | LR | Snowflake with Python 1,Web Resource,https://medium.com/@pandita.archit/getting-start-with-snowflake-with-python-21710becf6bf,Python | LR | Snowflake with Python 1,
+,Python | LR | Snowflake with Python 2,Web Resource,https://docs.snowflake.com/en/user-guide/python-connector.html,Python | LR | Snowflake with Python 2,
+,Python | LR | Sql Alchemy,Web Resource,https://towardsdatascience.com/sqlalchemy-python-tutorial-79a577141a91,Python | LR | Sql Alchemy,
+,Python | LR | Sqlite module,Web Resource,https://www.tutorialspoint.com/sqlite/sqlite_python.htm,Python | LR | Sqlite module,
+,Python Programming,Web Resource,https://learning.oreilly.com/videos/python-fundamentals/9780135917411/9780135917411-PFLL_Part1_Intro,Python Programming,Safari Books
+,,,,,
+FIVETRAN,,,,,
+,Fivetran: Custom Ingestion with Functions,Web Resource,https://fivetran.com/docs/functions,Fivetran: Custom Ingestion with Functions,
+,Fivetran: Fundamentals 1,Web Resource,https://fivetran.com/docs/getting-started/core-concepts,Fivetran: Fundamentals 1,
+,Fivetran: Fundamentals 2,Web Resource,https://www.youtube.com/watch?v=R2rQwJyRjaw&list=PLf1ixTn00SJZSf79ELrmTkbs9vX50jLMY,Fivetran: Fundamentals 2,Watch the entire playlist
+,Fivetran: Fundamentals 3,Web Resource,https://fivetran.com/docs/destinations/snowflake,Fivetran: Fundamentals 3,
+,Fivetran: Knows REST API exists,Web Resource,https://fivetran.com/docs/rest-api,Fivetran: Knows REST API exists,
+,Fivetran: Security,Web Resource,https://fivetran.com/docs/security,Fivetran: Security,
+,,,,,
+Dbt,,,,,
+,DBT | Building a project,Web Resource,https://docs.getdbt.com/docs/building-a-dbt-project/projects,DBT | Building a project,How to build a project
+,DBT | Debugging and Best Practices,Web Resource,https://docs.getdbt.com/docs/guides/debugging-errors/,DBT | Debugging and Best Practices,Best practices
+,DBT | Introduction,Web Resource,https://docs.getdbt.com/docs/introduction,DBT | Introduction,Introducing DBT
+,DBT | Seeting up the environment,Web Resource,https://discourse.getdbt.com/t/how-we-set-up-our-computers-for-working-on-dbt-projects/243,DBT | Seeting up the environment,How to setup the environment
+,,,,,
+GIT/GITLAB/Bitbucket,,,,,
+,GIT | LR | Branching and Merging,Web Resource,https://git-scm.com/book/en/v2/Appendix-C%3A-Git-Commands-Branching-and-Merging,GIT | LR | Branching and Merging,
+,GIT | LR | Collaborating,Web Resource,https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67,GIT | LR | Collaborating,Medium Resource
+,GIT | LR | Commands,Web Resource,https://www.freecodecamp.org/news/understanding-git-basics-commands-tips-tricks/,GIT | LR | Commands,
+,GIT | LR | Download and Installation Guide,Web Resource,https://git-scm.com/downloads,GIT | LR | Download and Installation Guide,
+,GIT | LR | Getting started 1,Web Resource,https://drive.google.com/drive/u/0/folders/1L9Sl0-Rg7O_zfv93OupLTwZSLwtRU3Ec,GIT | LR | Getting started 1,Hashmap Resource
+,GIT | LR | Getting started 2,Web Resource,https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control,GIT | LR | Getting started 2,GIT Resource
+,GIT | LR | Pull Requests,Web Resource,"https://yangsu.github.io/pull-request-tutorial/#:~:text=Pull%20requests%20let%20you%20tell,follow%2Dup%20commits%20if%20necessary.",GIT | LR | Pull Requests,
+,Databricks: GITHUB,Web Resource,https://docs.microsoft.com/en-us/azure/databricks/notebooks/github-version-control,Databricks: GITHUB,
+,Databricks: Perform ETL,Web Resource,https://docs.microsoft.com/en-us/azure/databricks/scenarios/databricks-extract-load-sql-data-warehouse,Databricks: Perform ETL,
+,,,,,
+LINUX FUNDAMENTALS,,,,,
+,Linux | LR | Connecting to remote host using SSH,Web Resource,https://phoenixnap.com/kb/ssh-to-connect-to-remote-server-linux-or-windows,Linux | LR | Connecting to remote host using SSH,Phoenixnap
+,Linux | LR | File Inodes,Web Resource,https://www.grymoire.com/Unix/Inodes.html,Linux | LR | File Inodes,Grymoire
+,"Linux | LR | File sharing between two hosts - scp, rsync",Web Resource,https://stackoverflow.com/questions/20244585/how-does-scp-differ-from-rsync,"Linux | LR | File sharing between two hosts - scp, rsync",Linuxize
+,Linux | LR | File types,Web Resource,https://en.wikipedia.org/wiki/Unix_file_types,Linux | LR | File types,Wikipedia
+,Linux | LR | Mounting file systems,Web Resource,https://www.youtube.com/watch?v=HbgzrKJvDRw,Linux | LR | Mounting file systems,YouTube
+,Linux | LR | Package managers,Web Resource,https://opensource.com/article/18/7/evolution-package-managers,Linux | LR | Package managers,Opensource
+,Linux | LR | Setting up Static IP,Web Resource,https://linuxize.com/post/how-to-configure-static-ip-address-on-ubuntu-18-04/,Linux | LR | Setting up Static IP,Linuxize
+,Linux | LR |All about commands,Web Resource,https://www.guru99.com/managing-processes-in-linux.html,Linux | LR |All about commands,guru99
+,Linux | LR |All about Linux,Web Resource,https://linuxacademy.com/cp/modules/view/id/346,Linux | LR |All about Linux,Linux Academy
+,Linux | LR |How to boot Linux,Web Resource,https://www.youtube.com/watch?v=yeMA7AJFtb8,Linux | LR |How to boot Linux,YouTube
+,Linux | LR |Process state,Web Resource,https://en.wikipedia.org/wiki/Process_state,Linux | LR |Process state,Wikipedia
+,Linux | LR |Process table,Web Resource,https://stackoverflow.com/questions/4880555/what-is-the-linux-process-table-what-does-it-consist-of,Linux | LR |Process table,Stackoverflow
+,Linux | LR |ProcFs,Web Resource,https://en.wikipedia.org/wiki/Procfs,Linux | LR |ProcFs,Wikipedia
+,Linux | LR |Run levels and init processes,Web Resource,https://medium.com/@Alibaba_Cloud/understanding-and-changing-runlevels-in-systemd-ccc30065c53d,Linux | LR |Run levels and init processes,Medium
+,,,,,
+SHELL SCRIPITNG ,,,,,
+,Shell | LR | Advanced,Web Resource,https://learn.acloud.guru/course/bccc6769-38e7-4a7f-8255-6914b7244caf/dashboard,Shell | LR | Advanced,Shell | LR | Advanced
+,Shell | LR | Basic,Web Resource,https://learning.oreilly.com/videos/bash-scripting-and/9781789807073/9781789807073-video1_1,Shell | LR | Basic,Shell | LR | Basic
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,REST API 2.0,Web Resource,https://docs.microsoft.com/en-us/azure/databricks/dev-tools/api/latest/,REST API 2.0,"The Databricks REST API 2.0 supports services to manage your workspace, DBFS, clusters, instance pools, jobs, libraries, users and groups, tokens, and MLflow experiments and models.This article provides an overview of how to use the REST API. Links to each API reference, authentication options, and examples are listed at the end of the article.For information about authenticating to the REST API using personal access tokens, see Authentication using Azure Databricks personal access tokens. For API examples, see Examples.For information about authenticating to the REST API using Azure Active Directory tokens, see Authentication using Azure Active Directory tokens. For examples, see Use an Azure AD access token for a user and Use an Azure AD access token for a service principal."
+,S3 | LR | Basics,Web Resource,https://acloud.guru/learn/amazon-s3-basics,S3 | LR | Basics,
+,S3 | LR | CLI,Web Resource,https://cloudian.com/aws-cli-setup-basic-use-s3-data-movement/,S3 | LR | CLI,
+,S3 | LR | Optmisation Costs,Web Resource,https://learn.acloud.guru/course/aws-certified-solutions-architect-associate/dashboard,S3 | LR | Optmisation Costs,
+,S3 | LR | Server Access Logging,Web Resource,https://www.youtube.com/watch?v=41bdQNBTrnY,S3 | LR | Server Access Logging,
+,S3 | LR | Website Hosting,Web Resource,https://docs.aws.amazon.com/AmazonS3/latest/dev/website-hosting-custom-domain-walkthrough.html,S3 | LR | Website Hosting,
+,Shell | LR | Advanced,Web Resource,https://learn.acloud.guru/course/bccc6769-38e7-4a7f-8255-6914b7244caf/dashboard,Shell | LR | Advanced,Shell | LR | Advanced
+,Shell | LR | Basic,Web Resource,https://learning.oreilly.com/videos/bash-scripting-and/9781789807073/9781789807073-video1_1,Shell | LR | Basic,Shell | LR | Basic
+,Smartsheet Dashboards Video,Video,https://drive.google.com/file/d/1CqO5_lhpRU0QIqjSD-fxxp3fRc5yuWAb/view?usp=sharing,Smartsheet Dashboards Video,Smartsheet Dashboards Video
+,Smartsheet Navigation Video,Video,https://drive.google.com/file/d/1V4wdKsyiVGGNMmzagFweyWScMl5Zi2yi/view?usp=sharing,Smartsheet Navigation Video,Smartsheet Navigation Video
+,Smartsheet Project Workspaces Video,Video,https://drive.google.com/file/d/1prXUZ6ZqMTeqc-xNwSnsPq3c1ib_PzV7/view?usp=sharing,Smartsheet Project Workspaces Video,Smartsheet Project Workspaces Video
+,Smartsheet Reports Video,Video,https://drive.google.com/file/d/1VjWs72KeJrXyXjDQakHCTwdTa15j6bRC/view?usp=sharing,Smartsheet Reports Video,Smartsheet Reports Video
+,Smartsheet Sheets - Part 1 Video,Video,https://drive.google.com/file/d/1Ot0c5TOEnBJvTJnBkOFXD8Pks3BYj1Nr/view?usp=sharing,Smartsheet Sheets - Part 1 Video,Smartsheet Sheets - Part 1 Video
+,SmartSheet Sheets - Part 2,Video,https://drive.google.com/file/d/1vF7yehvk4Syan56B8sD9cHvUhOWmkr9z/view?usp=sharing,SmartSheet Sheets - Part 2,SmartSheet Sheets - Part 2
+,Smartsheet Sheets - Part 2 Video,Video,https://drive.google.com/file/d/1vF7yehvk4Syan56B8sD9cHvUhOWmkr9z/view?usp=sharing,Smartsheet Sheets - Part 2 Video,Smartsheet Sheets - Part 2 Video
+,Snowflake | LR | Comprehensive Guide,Article,https://community.snowflake.com/s/what-is-snowflake,Snowflake | LR | Comprehensive Guide,Snowflake | LR | Comprehensive Guide
+,Snowflake | LR | Foundation,Video,https://www.youtube.com/watch?v=dxrEHqMFUWI&t=7s,Snowflake | LR | Foundation,Snowflake | LR | Foundation
+,Snowflake | LR | Fundamentals [PPT],Web Resource,https://drive.google.com/file/d/1w0lBAvOiJnibuoUxKrREKqV3KidA3HnQ/view?usp=sharing,Snowflake | LR | Fundamentals,Snowflake | LR | Fundamentals [PPT]
+,Snowflake | LR | Fundamentals [Video],Video,https://drive.google.com/file/d/1Sl3Sy_L8Tw_5hCrTaxBwIGbbYbb_rCp_/view?usp=sharing,Snowflake | LR | Fundamentals [Video],Snowflake | LR | Fundamentals [Video]
+,Snowflake | LR | Official documentation,Web Resource,https://docs.snowflake.com/en/index.html,Snowflake | LR | Official documentation,Snowflake | LR | Official documentation
+,Snowflake | LR | Products [YouTube PlayList],Video,https://www.youtube.com/watch?v=MfM4Qit_iGE&list=PL4IM5KTx_T7hNYWqfbiYHCGKJEMUJ4tyK,Snowflake | LR | Products [YouTube PlayList],Snowflake | LR | Products [YouTube PlayList]
+,Snowflake | LR | Setting up a free trial account,Tutorial,https://s3.amazonaws.com/snowflake-workshop-lab/Snowflake_free_trial_LabGuide.pdf,Snowflake | LR | Setting up a free trial account,Snowflake | LR | Setting up a free trial account
+,Snowflake 1.0 | LR | Architecture 1,Video,https://www.youtube.com/watch?v=dZlBCLLL7UA,Snowflake 1.0 | LR | Architecture 1,
+,Snowflake 1.0 | LR | Architecture 2,Tutorial,https://docs.snowflake.com/en/user-guide/intro-key-concepts.html,Snowflake 1.0 | LR | Architecture 2,
+,Snowflake 1.0 | LR | Architecture 3,Tutorial,https://docs.snowflake.com/en/user-guide/intro-cloud-platforms.html,Snowflake 1.0 | LR | Architecture 3,
+,Snowflake 1.0 | LR | Architecture 4,Tutorial,https://docs.snowflake.com/en/user-guide/intro-regions.html,Snowflake 1.0 | LR | Architecture 4,
+,Snowflake 1.0 | LR | Architecture 5,Tutorial,https://docs.snowflake.com/en/user-guide/intro-editions.html,Snowflake 1.0 | LR | Architecture 5,
+,Snowflake 1.0 | LR | Architecture 6,Tutorial,https://docs.snowflake.com/en/user-guide/data-lifecycle.html,Snowflake 1.0 | LR | Architecture 6,
+,Snowflake 1.0 | LR | Architecture 7,Tutorial,https://docs.snowflake.com/en/user-guide/data-cdp.html,Snowflake 1.0 | LR | Architecture 7,
+,Snowflake 1.0 | LR | Best Practices 1,Tutorial,https://www.youtube.com/watch?v=E--zIGd_iqE,Snowflake 1.0 | LR | Best Practices 1,
+,Snowflake 1.0 | LR | Best Practices 2,Tutorial,https://docs.snowflake.com/en/user-guide/security-access-control-considerations.html,Snowflake 1.0 | LR | Best Practices 2,
+,Snowflake 1.0 | LR | Best Practices 3,Tutorial,https://docs.snowflake.com/en/user-guide/warehouses-considerations.html,Snowflake 1.0 | LR | Best Practices 3,
+,Snowflake 1.0 | LR | Best Practices 4,Tutorial,https://docs.snowflake.com/en/user-guide/table-considerations.html,Snowflake 1.0 | LR | Best Practices 4,
+,Snowflake 1.0 | LR | Best Practices 5,Tutorial,https://docs.snowflake.com/en/user-guide/tables-storage-considerations.html,Snowflake 1.0 | LR | Best Practices 5,
+,Snowflake 1.0 | LR | Best Practices 6,Tutorial,https://docs.snowflake.com/en/user-guide/data-load-considerations.html,Snowflake 1.0 | LR | Best Practices 6,
+,Snowflake 1.0 | LR | Best Practices 7,Tutorial,https://docs.snowflake.com/en/user-guide/data-unload-considerations.html,Snowflake 1.0 | LR | Best Practices 7,
+,Snowflake 1.0 | LR | Best Practices 8,Tutorial,https://docs.snowflake.com/en/user-guide/semistructured-considerations.html,Snowflake 1.0 | LR | Best Practices 8,
+,Snowflake 1.0 | LR | Change Tracking,Tutorial,https://docs.snowflake.com/en/user-guide/streams.html,Snowflake 1.0 | LR | Change Tracking,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,Solar Turbines Induction,Web Resource,https://drive.google.com/file/d/1D_-MFBT0O7rlbrfbye9mH7SaHoae0taz/view?usp=sharing,Solar Turbines Induction,Solar Turbines Induction
+,Spark | LR | APIs,Tutorial,https://learning.oreilly.com/library/view/learning-spark-2nd/9781492050032/ch03.html#apache_sparkapostrophes_structured_apis,Spark | LR | APIs,Oreilly Books
+,Spark | LR | DataLakes,Tutorial,https://learning.oreilly.com/library/view/learning-spark-2nd/9781492050032/ch09.html#building_reliable_data_lakes_with_apache,Spark | LR | DataLakes,Oreilly Books
+,Spark | LR | Deploy,Tutorial,https://learning.oreilly.com/library/view/learning-spark-2nd/9781492050032/ch11.html#managingcomma_deployingcomma_and_scaling,Spark | LR | Deploy,Oreilly Books
+,Spark | LR | Installation,Tutorial,https://learning.oreilly.com/library/view/learning-spark-2nd/9781492050032/ch02.html#downloading_apache_spark_and_getting_sta,Spark | LR | Installation,Oreilly Books
+,Spark | LR | Introduction,Tutorial,https://learning.oreilly.com/library/view/learning-spark-2nd/9781492050032/ch01.html#introduction_to_apache_spark_a_unified_a,Spark | LR | Introduction,Oreilly Books
+,Spark | LR | Mlibs,Tutorial,https://learning.oreilly.com/library/view/learning-spark-2nd/9781492050032/ch10.html#machine_learning_with_mllib,Spark | LR | Mlibs,Oreilly Books
+,Spark | LR | Opt,Tutorial,https://learning.oreilly.com/library/view/learning-spark-2nd/9781492050032/ch07.html#optimizing_and_tuning_spark_applications,Spark | LR | Opt,Oreilly Books
+,Spark | LR | SQLDATASETS,Tutorial,https://learning.oreilly.com/library/view/learning-spark-2nd/9781492050032/ch06.html#spark_sql_and_datasets,Spark | LR | SQLDATASETS,Oreilly Books
+,Spark | LR | SQLDFRMS1,Tutorial,https://learning.oreilly.com/library/view/learning-spark-2nd/9781492050032/ch04.html#spark_sql_and_dataframes_introduction_to,Spark | LR | SQLDFRMS1,Oreilly Books
+,Spark | LR | SQLDFRMS2,Tutorial,https://learning.oreilly.com/library/view/learning-spark-2nd/9781492050032/ch05.html#spark_sql_and_dataframes_interacting_wit,Spark | LR | SQLDFRMS2,Oreilly Books
+,Spark | LR | Streaming,Tutorial,https://learning.oreilly.com/library/view/learning-spark-2nd/9781492050032/ch08.html#structured_streaming,Spark | LR | Streaming,Oreilly Books
+,SQL | LR | Introduction_To_SQL_And_Objects_RDBMs,Article,https://www.geeksforgeeks.org/structured-query-language/,SQL | LR | Introduction_To_SQL_And_Objects_RDBMs,"RDBMs, Databases, schema, tables, views Intro"
+,SQL |LR| Operators_in_SQL_Arithmetic Operators,Article,https://docs.snowflake.com/en/sql-reference/operators-arithmetic.html,SQL |LR| Operators_in_SQL_Arithmetic Operators,Arithmetic Operators
+,SQL |LR|Advanced_Functions_Of_SQL_Aggregate functions,Article,https://docs.snowflake.com/en/sql-reference/functions-aggregation.html,SQL |LR|Advanced_Functions_Of_SQL_Aggregate functions,"Aggregate functions, Cover only general functions under the link"
+,SQL |LR|Advanced_Functions_Of_SQL_Window Functions 1,Article,https://docs.snowflake.com/en/user-guide/functions-window-using.html,SQL |LR|Advanced_Functions_Of_SQL_Window Functions 1,Window Functions
+,SQL |LR|Advanced_Functions_Of_SQL_Window Functions 2,Article,https://docs.snowflake.com/en/sql-reference/functions-analytic.html,SQL |LR|Advanced_Functions_Of_SQL_Window Functions 2,
+,SQL |LR|Basics_And_Advance_Joins_in_SQL,Video,https://www.youtube.com/watch?v=unxn0KnzBzk,SQL |LR|Basics_And_Advance_Joins_in_SQL,
+,SQL |LR|Basics_And_Advance_Joins_in_SQL_FullJoin,Video,https://www.youtube.com/watch?v=bLL5NbBEg2I,SQL |LR|Basics_And_Advance_Joins_in_SQL_FullJoin,"INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN"
+,SQL |LR|Basics_And_Advance_Joins_in_SQL_leftouter,Video,https://www.youtube.com/watch?v=unxn0KnzBzk,SQL |LR|Basics_And_Advance_Joins_in_SQL_leftouter,left outer
+,SQL |LR|Basics_And_Advance_Joins_in_SQL_right outer,Video,https://www.youtube.com/watch?v=t7J__TGqoQs,SQL |LR|Basics_And_Advance_Joins_in_SQL_right outer,right outer
+,SQL |LR|Basics_And_Advance_Joins_in_SQL_types of Joins,Video,https://www.youtube.com/watch?v=zYH-e6tUYbw&list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y&index=37,SQL |LR|Basics_And_Advance_Joins_in_SQL_types of Joins,
+,SQL |LR|Basics_of_SQL_creating table options,Article,https://docs.snowflake.com/en/sql-reference/ddl-table.html,SQL |LR|Basics_of_SQL_creating table options,creating table options
+,SQL |LR|Basics_of_SQL_Creating Views,Article,https://docs.snowflake.com/en/sql-reference/sql/create-view.html,SQL |LR|Basics_of_SQL_Creating Views,Creating Views
+,SQL |LR|Basics_of_SQL_CTE,Article,https://docs.snowflake.com/en/user-guide/queries-cte.html,SQL |LR|Basics_of_SQL_CTE,CTE
+,SQL |LR|Basics_of_SQL_Insert into table,Article,https://docs.snowflake.com/en/sql-reference/sql/insert.html,SQL |LR|Basics_of_SQL_Insert into table,Insert into table
+,SQL |LR|Basics_of_SQL_Multi table insert,Article,https://docs.snowflake.com/en/sql-reference/sql/insert-multi-table.html,SQL |LR|Basics_of_SQL_Multi table insert,Multi table insert
+,SQL |LR|Basics_of_SQL_options_DDLs,Article,https://docs.snowflake.com/en/sql-reference/sql-ddl-summary.html,SQL |LR|Basics_of_SQL_options_DDLs,Various options in DDLs
+,SQL |LR|Basics_of_SQL_Select from table,Article,https://docs.snowflake.com/en/sql-reference/sql/select.html,SQL |LR|Basics_of_SQL_Select from table,Select from table
+,SQL |LR|Functions_of_SQL_Conversion functions,Article,https://docs.snowflake.com/en/sql-reference/functions-conversion.html,SQL |LR|Functions_of_SQL_Conversion functions,Conversion functions
+,SQL |LR|Functions_of_SQL_Date functions,Article,https://docs.snowflake.com/en/sql-reference/functions-date-time.html,SQL |LR|Functions_of_SQL_Date functions,Date functions
+,SQL |LR|Functions_of_SQL_Numeric functions,Article,https://docs.snowflake.com/en/sql-reference/functions-numeric.html,SQL |LR|Functions_of_SQL_Numeric functions,"Numeric functions (SQRT, PI, SQUARE, ROUND, CEILING & FLOOR)"
+,SQL |LR|Functions_of_SQL_String functions,Article,https://docs.snowflake.com/en/sql-reference/functions-string.html,SQL |LR|Functions_of_SQL_String functions,String functions
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,Structured Streaming,Web Resource,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/structured-streaming/,Structured Streaming,Structured Streaming is the Apache Spark API that lets you express computation on streaming data in the same way you express a batch computation on static data. The Spark SQL engine performs the computation incrementally and continuously updates the result as streaming data arrives.
+,Terraform,Web Resource,https://www.udemy.com/course/terraform-indepth-with-7-realtime-casestudies/,Terraform,
+,Terraform | LR | AWS deployment,Web Resource,https://acloud.guru/overview/8a6f598f-a41f-48ff-99a6-2c7a760b4119?_ga=2.181072290.48777259.1606228790-1674137000.1603105856&_gac=1.94928238.1606397708.Cj0KCQiAwf39BRCCARIsALXWETzT5Z8fzdFl2POVStrXV9iu2qdwgajbComlpnM7V8Jl8PbP9GLvADIaAg88EALw_wcB,Terraform | LR | AWS deployment,Terraform | LR | AWS deployment
+,Terraform | LR | Azure deployment,Web Resource,https://learn.acloud.guru/course/bd8060c6-e408-4801-a4a3-8317c45319bf/dashboard,Terraform | LR | Azure deployment,Terraform | LR | Azure deployment
+,Terraform | LR | GCP Deployment,Web Resource,https://acloud.guru/overview/3078e33a-0a35-433b-a341-a45d3c46bd1d?_ga=2.218380828.48777259.1606228790-1674137000.1603105856&_gac=1.93691375.1606397708.Cj0KCQiAwf39BRCCARIsALXWETzT5Z8fzdFl2POVStrXV9iu2qdwgajbComlpnM7V8Jl8PbP9GLvADIaAg88EALw_wcB,Terraform | LR | GCP Deployment,Terraform | LR | GCP Deployment
+,The Complete Python Masterclass: Learn Python From Scratch,Tutorial,https://www.udemy.com/course/python-masterclass-course,The Complete Python Masterclass: Learn Python From Scratch,Udemy Course
+,The Python Bible™ | Everything You Need to Program in Python,Tutorial,https://www.udemy.com/course/the-python-bible,The Python Bible™ | Everything You Need to Program in Python,Udemy Course
+,USA - Employee Handbook,Web Resource,https://sites.google.com/hashmapinc.com/hashmapusa/employees-usa,,
